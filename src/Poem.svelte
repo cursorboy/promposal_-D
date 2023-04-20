@@ -20,13 +20,13 @@
     <p>I spent too much time coding this</p>
     <p>But there's one thing I cannot miss</p>
     <p>And it's taking you to the prom</p>
-    <p>Since idk how to drive, we'll probably go with someone's mom</p>
-    <p>Oh god, that poem was cringe</p>
-    <p>If you would like to go with me, just a tinge</p>
-    <p>Please reply to me in Messenger with a yes</p>
-    <p>And if you do, prepare a dress!</p>
+    <p>and im so glad for our comms</p>
+    <p>Oh god, im a nerd</p>
+    <p>but i know thats what u wouldve preferrede</p>
+    <p>pls lmk if its a yes</p>
+    <p>And if it is im excited to see ur dress</p>
     <p>If you would like to say no</p>
-    <p>Just tell me so</p>
+    <p>Just tell me so (you can't)</p>
   </Article>
 </div>
 
