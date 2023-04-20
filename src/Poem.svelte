@@ -27,7 +27,7 @@
     <p>And if it is im excited to see ur dress</p>
     <p>lmk if this was a success</p>
     <p>cuz now u won't be stressed</p>
-    <a href="https://promposal-rosy.vercel.app/">click here for more :) </a>
+    <a href="https://promposal-rosy.vercel.app">click here for more</a>
   </Article>
 </div>
 
