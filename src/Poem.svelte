@@ -27,6 +27,7 @@
     <p>And if it is im excited to see ur dress</p>
     <p>If you would like to say no</p>
     <p>Just tell me so (you can't)</p>
+    <a href="https://promposal-rosy.vercel.app/">click here for more :) </a>
   </Article>
 </div>
 
