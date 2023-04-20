@@ -23,10 +23,10 @@
     <p>and im so glad for our comms</p>
     <p>Oh god, im a nerd</p>
     <p>but i know thats what u wouldve preferred</p>
-    <p>pls lmk if its a yes</p>
+    <p>thank you for saying yes</p>
     <p>And if it is im excited to see ur dress</p>
-    <p>If you would like to say no</p>
-    <p>Just tell me so (you can't)</p>
+    <p>lmk if this was a success</p>
+    <p>cuz now u won't be stressed</p>
     <a href="https://promposal-rosy.vercel.app/">click here for more :) </a>
   </Article>
 </div>
