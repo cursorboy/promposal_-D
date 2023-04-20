@@ -22,7 +22,7 @@
     <p>And it's taking you to the prom</p>
     <p>and im so glad for our comms</p>
     <p>Oh god, im a nerd</p>
-    <p>but i know thats what u wouldve preferrede</p>
+    <p>but i know thats what u wouldve preferred</p>
     <p>pls lmk if its a yes</p>
     <p>And if it is im excited to see ur dress</p>
     <p>If you would like to say no</p>
