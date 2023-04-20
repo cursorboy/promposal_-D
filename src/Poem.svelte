@@ -24,9 +24,9 @@
     <p>Oh god, im a nerd</p>
     <p>but i know thats what u wouldve preferred</p>
     <p>thank you for saying yes</p>
-    <p>And if it is im excited to see ur dress</p>
+    <p> now im excited to see ur dress</p>
     <p>lmk if this was a success</p>
-    <p>cuz now u won't be stressed</p>
+    <p>so now u won't be stressed</p>
     <a href="https://promposal-rosy.vercel.app">click here for more</a>
   </Article>
 </div>
